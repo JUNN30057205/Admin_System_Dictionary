@@ -1,0 +1,11 @@
+C:\Users\hoops\source\repos\Admin_System_Dictionary\bin\Debug\Admin_System_Dictionary.exe.config
+C:\Users\hoops\source\repos\Admin_System_Dictionary\bin\Debug\Admin_System_Dictionary.exe
+C:\Users\hoops\source\repos\Admin_System_Dictionary\bin\Debug\Admin_System_Dictionary.pdb
+C:\Users\hoops\source\repos\Admin_System_Dictionary\obj\Debug\Admin_System_Dictionary.csproj.AssemblyReference.cache
+C:\Users\hoops\source\repos\Admin_System_Dictionary\obj\Debug\Admin_System_Dictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoops\source\repos\Admin_System_Dictionary\obj\Debug\Admin_System_Dictionary.Form_Dictionary.resources
+C:\Users\hoops\source\repos\Admin_System_Dictionary\obj\Debug\Admin_System_Dictionary.Properties.Resources.resources
+C:\Users\hoops\source\repos\Admin_System_Dictionary\obj\Debug\Admin_System_Dictionary.csproj.GenerateResource.cache
+C:\Users\hoops\source\repos\Admin_System_Dictionary\obj\Debug\Admin_System_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\hoops\source\repos\Admin_System_Dictionary\obj\Debug\Admin_System_Dictionary.exe
+C:\Users\hoops\source\repos\Admin_System_Dictionary\obj\Debug\Admin_System_Dictionary.pdb
