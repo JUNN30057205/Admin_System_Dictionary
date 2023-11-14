@@ -1,0 +1,1224 @@
+---Dictionary TraceLog---
+--Read MasterFile--
+Elapsed time in ticks: 37390
+Elapsed time in milliseconds: 3
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 1447
+Elapsed time in milliseconds: 0
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 509794
+Elapsed time in milliseconds: 50
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 100436
+Elapsed time in milliseconds: 10
+-----------------------------
+--Open Admin Form--
+
+---Admin Form TraceLog---
+--Create New Staff ID--
+Elapsed time in ticks: 5282
+Elapsed time in milliseconds: 0
+-----------------------------
+--Deleted Staff Records--
+Elapsed time in ticks: 48032
+Elapsed time in milliseconds: 4
+-----------------------------
+Elapsed time in ticks: 113792376
+Elapsed time in milliseconds: 11379
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 135762
+Elapsed time in milliseconds: 13
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 316672
+Elapsed time in milliseconds: 31
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 74223
+Elapsed time in milliseconds: 7
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 41749
+Elapsed time in milliseconds: 4
+-----------------------------
+--Populate staff records into Textboxes--
+--Filter Staff ID--
+Elapsed time in ticks: 33888
+Elapsed time in milliseconds: 3
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 18999
+Elapsed time in milliseconds: 1
+-----------------------------
+Elapsed time in ticks: 60336
+Elapsed time in milliseconds: 6
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 103
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 107
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 127
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 109
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 70
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 72
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 71
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 76
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 63
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 71
+Elapsed time in milliseconds: 0
+-----------------------------
+--Open Admin Form--
+--Updated Staff Records--
+Elapsed time in ticks: 4184
+Elapsed time in milliseconds: 0
+-----------------------------
+--Deleted Staff Records--
+Elapsed time in ticks: 38592
+Elapsed time in milliseconds: 3
+-----------------------------
+Elapsed time in ticks: 167107682
+Elapsed time in milliseconds: 16710
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 1030
+Elapsed time in milliseconds: 0
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 555318
+Elapsed time in milliseconds: 55
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 125340
+Elapsed time in milliseconds: 12
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 131323
+Elapsed time in milliseconds: 13
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 54446
+Elapsed time in milliseconds: 5
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 140099
+Elapsed time in milliseconds: 14
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 1195
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+--Filter Staff Name--
+Elapsed time in ticks: 22411
+Elapsed time in milliseconds: 2
+-----------------------------
+Elapsed time in ticks: 27586
+Elapsed time in milliseconds: 2
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 78
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 74
+Elapsed time in milliseconds: 0
+-----------------------------
+--Open Admin Form--
+
+---Admin Form TraceLog---
+--Create New Staff ID--
+---Dictionary TraceLog---
+--Read MasterFile--
+Elapsed time in ticks: 35879
+Elapsed time in milliseconds: 3
+-----------------------------
+---Dictionary TraceLog---
+--Read MasterFile--
+Elapsed time in ticks: 36266
+Elapsed time in milliseconds: 3
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 417150
+Elapsed time in milliseconds: 41
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 89341
+Elapsed time in milliseconds: 8
+-----------------------------
+--Open Admin Form with 77--
+
+---Admin Form TraceLog---
+--Create New Staff ID--
+Elapsed time in ticks: 4391
+Elapsed time in milliseconds: 0
+-----------------------------
+--Save and Close Staff Records--
+Elapsed time in ticks: 48382
+Elapsed time in milliseconds: 4
+-----------------------------
+Elapsed time in ticks: 141158063
+Elapsed time in milliseconds: 14115
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 144456
+Elapsed time in milliseconds: 14
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 302071
+Elapsed time in milliseconds: 30
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 74325
+Elapsed time in milliseconds: 7
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 44082
+Elapsed time in milliseconds: 4
+-----------------------------
+--Populate staff records into Textboxes--
+--Filter Staff ID--
+Elapsed time in ticks: 35818
+Elapsed time in milliseconds: 3
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 20037
+Elapsed time in milliseconds: 2
+-----------------------------
+Elapsed time in ticks: 64360
+Elapsed time in milliseconds: 6
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 74
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 113
+Elapsed time in milliseconds: 0
+-----------------------------
+--Open Admin Form with 77--
+--Open Admin Form with selected staffID and Name--
+--Deleted Staff Records--
+Elapsed time in ticks: 4337
+Elapsed time in milliseconds: 0
+-----------------------------
+--Save and Close Staff Records--
+Elapsed time in ticks: 42560
+Elapsed time in milliseconds: 4
+-----------------------------
+Elapsed time in ticks: 43140940
+Elapsed time in milliseconds: 4314
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 824
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 92
+Elapsed time in milliseconds: 0
+-----------------------------
+---Dictionary TraceLog---
+--Read MasterFile--
+Elapsed time in ticks: 43082
+Elapsed time in milliseconds: 4
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 476005
+Elapsed time in milliseconds: 47
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 100492
+Elapsed time in milliseconds: 10
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 1434
+Elapsed time in milliseconds: 0
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 290461
+Elapsed time in milliseconds: 29
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 78687
+Elapsed time in milliseconds: 7
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 64429
+Elapsed time in milliseconds: 6
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 255235
+Elapsed time in milliseconds: 25
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 27515
+Elapsed time in milliseconds: 2
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 27815
+Elapsed time in milliseconds: 2
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 259810
+Elapsed time in milliseconds: 25
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 27860
+Elapsed time in milliseconds: 2
+-----------------------------
+--Populate staff records into Textboxes--
+--Filter Staff ID--
+Elapsed time in ticks: 34061
+Elapsed time in milliseconds: 3
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 20839
+Elapsed time in milliseconds: 2
+-----------------------------
+Elapsed time in ticks: 63178
+Elapsed time in milliseconds: 6
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 1062
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 86
+Elapsed time in milliseconds: 0
+-----------------------------
+--Open Admin Form with 77--
+--Open Admin Form with selected staffID and Name--
+--Updated Staff Records--
+Elapsed time in ticks: 3491
+Elapsed time in milliseconds: 0
+-----------------------------
+--Save and Close Staff Records--
+Elapsed time in ticks: 37733
+Elapsed time in milliseconds: 3
+-----------------------------
+Elapsed time in ticks: 195478116
+Elapsed time in milliseconds: 19547
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 975
+Elapsed time in milliseconds: 0
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 330872
+Elapsed time in milliseconds: 33
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 618361
+Elapsed time in milliseconds: 61
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 197534
+Elapsed time in milliseconds: 19
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 96373
+Elapsed time in milliseconds: 9
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 71671
+Elapsed time in milliseconds: 7
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 41675
+Elapsed time in milliseconds: 4
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 26569
+Elapsed time in milliseconds: 2
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 116508
+Elapsed time in milliseconds: 11
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 26095
+Elapsed time in milliseconds: 2
+-----------------------------
+--Populate staff records into Textboxes--
+--Filter Staff Name--
+Elapsed time in ticks: 24843
+Elapsed time in milliseconds: 2
+-----------------------------
+Elapsed time in ticks: 32330
+Elapsed time in milliseconds: 3
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 108
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 67
+Elapsed time in milliseconds: 0
+-----------------------------
+--Open Admin Form with 77--
+--Open Admin Form with selected staffID and Name--
+--Deleted Staff Records--
+Elapsed time in ticks: 4271
+Elapsed time in milliseconds: 0
+-----------------------------
+--Save and Close Staff Records--
+Elapsed time in ticks: 37190
+Elapsed time in milliseconds: 3
+-----------------------------
+Elapsed time in ticks: 172047037
+Elapsed time in milliseconds: 17204
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 1058
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 73
+Elapsed time in milliseconds: 0
+-----------------------------
+Close TraceLog
+
+---Dictionary TraceLog---
+--Read MasterFile and Display--
+Elapsed time in ticks: 43886
+Elapsed time in milliseconds: 4
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 1896
+Elapsed time in milliseconds: 0
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 510351
+Elapsed time in milliseconds: 51
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 99916
+Elapsed time in milliseconds: 9
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 521303
+Elapsed time in milliseconds: 52
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 31402
+Elapsed time in milliseconds: 3
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 516326
+Elapsed time in milliseconds: 51
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 387425
+Elapsed time in milliseconds: 38
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 340699
+Elapsed time in milliseconds: 34
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 77828
+Elapsed time in milliseconds: 7
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 66926
+Elapsed time in milliseconds: 6
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 39917
+Elapsed time in milliseconds: 3
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 24270
+Elapsed time in milliseconds: 2
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 23703
+Elapsed time in milliseconds: 2
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 116145
+Elapsed time in milliseconds: 11
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 24155
+Elapsed time in milliseconds: 2
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 24209
+Elapsed time in milliseconds: 2
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 25936
+Elapsed time in milliseconds: 2
+-----------------------------
+--Populate staff records into Textboxes--
+--Filter Staff ID--
+Elapsed time in ticks: 33007
+Elapsed time in milliseconds: 3
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 19049
+Elapsed time in milliseconds: 1
+-----------------------------
+Elapsed time in ticks: 59688
+Elapsed time in milliseconds: 5
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 145
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 110
+Elapsed time in milliseconds: 0
+-----------------------------
+--Open Admin Form with 77--
+--Open Admin Form with selected staffID and Name--
+--Updated Staff Records--
+Elapsed time in ticks: 4392
+Elapsed time in milliseconds: 0
+-----------------------------
+--Save and Close Staff Records--
+Elapsed time in ticks: 41393
+Elapsed time in milliseconds: 4
+-----------------------------
+Elapsed time in ticks: 149926161
+Elapsed time in milliseconds: 14992
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 1045
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 66
+Elapsed time in milliseconds: 0
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 455546
+Elapsed time in milliseconds: 45
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 633054
+Elapsed time in milliseconds: 63
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 618392
+Elapsed time in milliseconds: 61
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 122074
+Elapsed time in milliseconds: 12
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 212552
+Elapsed time in milliseconds: 21
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 420173
+Elapsed time in milliseconds: 42
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 138071
+Elapsed time in milliseconds: 13
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 81927
+Elapsed time in milliseconds: 8
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 68474
+Elapsed time in milliseconds: 6
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 124328
+Elapsed time in milliseconds: 12
+-----------------------------
+--Populate staff records into Textboxes--
+--Filter Staff ID--
+Elapsed time in ticks: 33696
+Elapsed time in milliseconds: 3
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 20048
+Elapsed time in milliseconds: 2
+-----------------------------
+Elapsed time in ticks: 61318
+Elapsed time in milliseconds: 6
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 106
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 72
+Elapsed time in milliseconds: 0
+-----------------------------
+Close TraceLog
+
+---Dictionary TraceLog---
+--Read MasterFile and Display--
+Elapsed time in ticks: 45266
+Elapsed time in milliseconds: 4
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 192602
+Elapsed time in milliseconds: 19
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 60620
+Elapsed time in milliseconds: 6
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 53000
+Elapsed time in milliseconds: 5
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 42342
+Elapsed time in milliseconds: 4
+-----------------------------
+--Populate staff records into Textboxes--
+--Filter Staff ID--
+Elapsed time in ticks: 197604
+Elapsed time in milliseconds: 19
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 20595
+Elapsed time in milliseconds: 2
+-----------------------------
+Elapsed time in ticks: 233268
+Elapsed time in milliseconds: 23
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 1385
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 161
+Elapsed time in milliseconds: 0
+-----------------------------
+--Open Admin Form with 77--
+--Open Admin Form with selected staffID and Name--
+--Updated Staff Records--
+Elapsed time in ticks: 3905
+Elapsed time in milliseconds: 0
+-----------------------------
+--Save and Close Staff Records--
+Elapsed time in ticks: 46684
+Elapsed time in milliseconds: 4
+-----------------------------
+Elapsed time in ticks: 77609667
+Elapsed time in milliseconds: 7760
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 684
+Elapsed time in milliseconds: 0
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 552210
+Elapsed time in milliseconds: 55
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 1068
+Elapsed time in milliseconds: 0
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 634907
+Elapsed time in milliseconds: 63
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 464375
+Elapsed time in milliseconds: 46
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 123737
+Elapsed time in milliseconds: 12
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 124118
+Elapsed time in milliseconds: 12
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 72351
+Elapsed time in milliseconds: 7
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 42213
+Elapsed time in milliseconds: 4
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 1074
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+--Filter Staff Name--
+Elapsed time in ticks: 20044
+Elapsed time in milliseconds: 2
+-----------------------------
+Elapsed time in ticks: 28222
+Elapsed time in milliseconds: 2
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 104
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 107
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 91
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 107
+Elapsed time in milliseconds: 0
+-----------------------------
+Close TraceLog
+
+---Dictionary TraceLog---
+--Read MasterFile and Display--
+Elapsed time in ticks: 54151
+Elapsed time in milliseconds: 5
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 1723
+Elapsed time in milliseconds: 0
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 587977
+Elapsed time in milliseconds: 58
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 85949
+Elapsed time in milliseconds: 8
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 267900
+Elapsed time in milliseconds: 26
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 93460
+Elapsed time in milliseconds: 9
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 72087
+Elapsed time in milliseconds: 7
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 50747
+Elapsed time in milliseconds: 5
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 30363
+Elapsed time in milliseconds: 3
+-----------------------------
+--Populate staff records into Textboxes--
+--Filter Staff ID--
+Elapsed time in ticks: 137352
+Elapsed time in milliseconds: 13
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 25678
+Elapsed time in milliseconds: 2
+-----------------------------
+Elapsed time in ticks: 174023
+Elapsed time in milliseconds: 17
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 703
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 73
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 65
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 67
+Elapsed time in milliseconds: 0
+-----------------------------
+--Open Admin Form with 77--
+--Open Admin Form with selected staffID and Name--
+--Updated Staff Records--
+Elapsed time in ticks: 4392
+Elapsed time in milliseconds: 0
+-----------------------------
+--Save and Close Staff Records--
+Elapsed time in ticks: 57970
+Elapsed time in milliseconds: 5
+-----------------------------
+Elapsed time in ticks: 165237593
+Elapsed time in milliseconds: 16523
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 709
+Elapsed time in milliseconds: 0
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 608167
+Elapsed time in milliseconds: 60
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 588457
+Elapsed time in milliseconds: 58
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 900
+Elapsed time in milliseconds: 0
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 346093
+Elapsed time in milliseconds: 34
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 89482
+Elapsed time in milliseconds: 8
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 111023
+Elapsed time in milliseconds: 11
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 69020
+Elapsed time in milliseconds: 6
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 25435
+Elapsed time in milliseconds: 2
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 29967
+Elapsed time in milliseconds: 2
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 115751
+Elapsed time in milliseconds: 11
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 30256
+Elapsed time in milliseconds: 3
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 22159
+Elapsed time in milliseconds: 2
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 21699
+Elapsed time in milliseconds: 2
+-----------------------------
+--Populate staff records into Textboxes--
+--Filter Staff ID--
+Elapsed time in ticks: 39080
+Elapsed time in milliseconds: 3
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 25207
+Elapsed time in milliseconds: 2
+-----------------------------
+Elapsed time in ticks: 73422
+Elapsed time in milliseconds: 7
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 109
+Elapsed time in milliseconds: 0
+-----------------------------
+Close TraceLog
+
+---Dictionary TraceLog---
+--Read MasterFile and Display--
+Elapsed time in ticks: 66239
+Elapsed time in milliseconds: 6
+-----------------------------
+Close TraceLog
+
+---Dictionary TraceLog---
+--Read MasterFile and Display--
+Elapsed time in ticks: 119254
+Elapsed time in milliseconds: 11
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 1482
+Elapsed time in milliseconds: 0
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 588174
+Elapsed time in milliseconds: 58
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 100226
+Elapsed time in milliseconds: 10
+-----------------------------
+--Open Admin Form with 77--
+
+---Admin Form TraceLog---
+--Create New Staff ID--
+Elapsed time in ticks: 3453
+Elapsed time in milliseconds: 0
+-----------------------------
+--Save and Close Staff Records--
+Elapsed time in ticks: 52221
+Elapsed time in milliseconds: 5
+-----------------------------
+Elapsed time in ticks: 81089633
+Elapsed time in milliseconds: 8108
+-----------------------------
+Close TraceLog
+
+---Dictionary TraceLog---
+--Read MasterFile and Display--
+Elapsed time in ticks: 39959
+Elapsed time in milliseconds: 3
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 1340
+Elapsed time in milliseconds: 0
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 491860
+Elapsed time in milliseconds: 49
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 165863
+Elapsed time in milliseconds: 16
+-----------------------------
+--Open Admin Form with 77--
+
+---Admin Form TraceLog---
+--Create New Staff ID--
+Elapsed time in ticks: 4432
+Elapsed time in milliseconds: 0
+-----------------------------
+--Save and Close Staff Records--
+Elapsed time in ticks: 33871
+Elapsed time in milliseconds: 3
+-----------------------------
+Elapsed time in ticks: 102327988
+Elapsed time in milliseconds: 10232
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 458255
+Elapsed time in milliseconds: 45
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 280650
+Elapsed time in milliseconds: 28
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 76191
+Elapsed time in milliseconds: 7
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 100126
+Elapsed time in milliseconds: 10
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 46669
+Elapsed time in milliseconds: 4
+-----------------------------
+--Populate staff records into Textboxes--
+--Filter Staff ID--
+Elapsed time in ticks: 42183
+Elapsed time in milliseconds: 4
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 21302
+Elapsed time in milliseconds: 2
+-----------------------------
+Elapsed time in ticks: 73552
+Elapsed time in milliseconds: 7
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 63
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 69
+Elapsed time in milliseconds: 0
+-----------------------------
+--Open Admin Form with 77--
+--Open Admin Form with selected staffID and Name--
+--Updated Staff Records--
+Elapsed time in ticks: 3598
+Elapsed time in milliseconds: 0
+-----------------------------
+--Save and Close Staff Records--
+Elapsed time in ticks: 44330
+Elapsed time in milliseconds: 4
+-----------------------------
+Elapsed time in ticks: 139043071
+Elapsed time in milliseconds: 13904
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 963
+Elapsed time in milliseconds: 0
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 542319
+Elapsed time in milliseconds: 54
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 246656
+Elapsed time in milliseconds: 24
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 61872
+Elapsed time in milliseconds: 6
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 52119
+Elapsed time in milliseconds: 5
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 34578
+Elapsed time in milliseconds: 3
+-----------------------------
+--Populate staff records into Textboxes--
+--Filter Staff Name--
+Elapsed time in ticks: 24333
+Elapsed time in milliseconds: 2
+-----------------------------
+Elapsed time in ticks: 30535
+Elapsed time in milliseconds: 3
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 69
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 78
+Elapsed time in milliseconds: 0
+-----------------------------
+--Open Admin Form with 77--
+--Open Admin Form with selected staffID and Name--
+--Deleted Staff Records--
+Elapsed time in ticks: 3860
+Elapsed time in milliseconds: 0
+-----------------------------
+--Save and Close Staff Records--
+Elapsed time in ticks: 38904
+Elapsed time in milliseconds: 3
+-----------------------------
+Elapsed time in ticks: 54646784
+Elapsed time in milliseconds: 5464
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 1113
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 68
+Elapsed time in milliseconds: 0
+-----------------------------
+Close TraceLog
+
+---Dictionary TraceLog---
+--Read MasterFile and Display--
+Elapsed time in ticks: 37674
+Elapsed time in milliseconds: 3
+-----------------------------
+Close TraceLog
+
+---Dictionary TraceLog---
+--Read MasterFile and Display--
+Elapsed time in ticks: 251277
+Elapsed time in milliseconds: 25
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 2746
+Elapsed time in milliseconds: 0
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 1026721
+Elapsed time in milliseconds: 102
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 195659
+Elapsed time in milliseconds: 19
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 389389
+Elapsed time in milliseconds: 38
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 157225
+Elapsed time in milliseconds: 15
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 121797
+Elapsed time in milliseconds: 12
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 74542
+Elapsed time in milliseconds: 7
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 52245
+Elapsed time in milliseconds: 5
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 55110
+Elapsed time in milliseconds: 5
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 106008
+Elapsed time in milliseconds: 10
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 53579
+Elapsed time in milliseconds: 5
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 51420
+Elapsed time in milliseconds: 5
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 53698
+Elapsed time in milliseconds: 5
+-----------------------------
+--Populate staff records into Textboxes--
+--Filter Staff ID--
+Elapsed time in ticks: 54540
+Elapsed time in milliseconds: 5
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 28801
+Elapsed time in milliseconds: 2
+-----------------------------
+Elapsed time in ticks: 95890
+Elapsed time in milliseconds: 9
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 122
+Elapsed time in milliseconds: 0
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 238
+Elapsed time in milliseconds: 0
+-----------------------------
+--Open Admin Form with 77--
+--Open Admin Form with selected staffID and Name--
+--Deleted Staff Records--
+Elapsed time in ticks: 9401
+Elapsed time in milliseconds: 0
+-----------------------------
+--Save and Close Staff Records--
+Elapsed time in ticks: 83395
+Elapsed time in milliseconds: 8
+-----------------------------
+Elapsed time in ticks: 62856359
+Elapsed time in milliseconds: 6285
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 1796
+Elapsed time in milliseconds: 0
+-----------------------------
+--Filter Staff ID--
+Elapsed time in ticks: 898377
+Elapsed time in milliseconds: 89
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 927589
+Elapsed time in milliseconds: 92
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 407975
+Elapsed time in milliseconds: 40
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 132667
+Elapsed time in milliseconds: 13
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 119307
+Elapsed time in milliseconds: 11
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 91727
+Elapsed time in milliseconds: 9
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 47781
+Elapsed time in milliseconds: 4
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 48986
+Elapsed time in milliseconds: 4
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 106558
+Elapsed time in milliseconds: 10
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 69840
+Elapsed time in milliseconds: 6
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 45555
+Elapsed time in milliseconds: 4
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 54441
+Elapsed time in milliseconds: 5
+-----------------------------
+--Populate staff records into Textboxes--
+--Filter Staff ID--
+Elapsed time in ticks: 60756
+Elapsed time in milliseconds: 6
+-----------------------------
+--Filter Staff Name--
+Elapsed time in ticks: 35612
+Elapsed time in milliseconds: 3
+-----------------------------
+Elapsed time in ticks: 111416
+Elapsed time in milliseconds: 11
+-----------------------------
+--Populate staff records into Textboxes--
+Elapsed time in ticks: 143
+Elapsed time in milliseconds: 0
+-----------------------------
+--Open Admin Form with 77--
+--Open Admin Form with selected staffID and Name--
+--Deleted Staff Records--
+Elapsed time in ticks: 6049
+Elapsed time in milliseconds: 0
+-----------------------------
+--Save and Close Staff Records--
+Elapsed time in ticks: 71245
+Elapsed time in milliseconds: 7
+-----------------------------
+Elapsed time in ticks: 44347479
+Elapsed time in milliseconds: 4434
+-----------------------------
+Close TraceLog
+

@@ -16,7 +16,7 @@ namespace Admin_System_Dictionary
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form_Dictionary());
+            Application.Run(new FormDictionary());
         }
     }
 }
