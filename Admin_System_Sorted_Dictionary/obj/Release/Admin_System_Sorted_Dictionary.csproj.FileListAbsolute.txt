@@ -1,0 +1,12 @@
+C:\Users\hoops\source\repos\Admin_System_Sorted_Dictionary\bin\Release\Admin_System_Sorted_Dictionary.exe.config
+C:\Users\hoops\source\repos\Admin_System_Sorted_Dictionary\bin\Release\Admin_System_Sorted_Dictionary.exe
+C:\Users\hoops\source\repos\Admin_System_Sorted_Dictionary\bin\Release\Admin_System_Sorted_Dictionary.pdb
+C:\Users\hoops\source\repos\Admin_System_Sorted_Dictionary\obj\Release\Admin_System_Sorted_Dictionary.csproj.AssemblyReference.cache
+C:\Users\hoops\source\repos\Admin_System_Sorted_Dictionary\obj\Release\Admin_System_Sorted_Dictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoops\source\repos\Admin_System_Sorted_Dictionary\obj\Release\Admin_System_Sorted_Dictionary.AdminSortedDictionary.resources
+C:\Users\hoops\source\repos\Admin_System_Sorted_Dictionary\obj\Release\Admin_System_Sorted_Dictionary.FormSortedDictionary.resources
+C:\Users\hoops\source\repos\Admin_System_Sorted_Dictionary\obj\Release\Admin_System_Sorted_Dictionary.Properties.Resources.resources
+C:\Users\hoops\source\repos\Admin_System_Sorted_Dictionary\obj\Release\Admin_System_Sorted_Dictionary.csproj.GenerateResource.cache
+C:\Users\hoops\source\repos\Admin_System_Sorted_Dictionary\obj\Release\Admin_System_Sorted_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\hoops\source\repos\Admin_System_Sorted_Dictionary\obj\Release\Admin_System_Sorted_Dictionary.exe
+C:\Users\hoops\source\repos\Admin_System_Sorted_Dictionary\obj\Release\Admin_System_Sorted_Dictionary.pdb
